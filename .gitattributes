@@ -1,0 +1,11 @@
+# Do not edit manually
+* text=auto 
+public/**/*.html linguist-vendored
+*.png binary
+go.sum linguist-generated
+*.js linguist-detectable
+
+**/*.js linguist-detectable
+*.ico binary
+
+# eof b66b2f41
