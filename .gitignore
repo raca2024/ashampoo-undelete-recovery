@@ -1,0 +1,10 @@
+.cache/
+*.tgz
+dist/
+yarn-error.log*
+coverage/
+.env
+.env.local
+.DS_Store
+.pnpm-store/
+_site/
